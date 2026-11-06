@@ -3,10 +3,12 @@
 ## 🛠️ 1. Evidencias de los Mini-Prototipos
 
 ### Herramienta 1: Teachable Machine (Google)
-[Arrastra aquí tu captura de pantalla de Teachable Machine]
+
+[tm-my-image-model.zip](https://github.com/user-attachments/files/34455669/tm-my-image-model.zip)
 
 ### Herramienta 2: NVIDIA Karaoke / Nemotron Transcribe (Hugging Face)
-[Arrastra aquí tu captura de pantalla de Hugging Face de la canción La Cucaracha]
+
+<img width="1600" height="876" alt="la cucaracha modelo Hugging" src="https://github.com/user-attachments/assets/70517522-2b81-49f9-8681-328c99ca6ebf" />
 
 ---
 
@@ -16,7 +18,8 @@
 | :--- | :--- | :--- |
 | **¿Qué hace y a quién va dirigido?** | Clasificación interactiva de imágenes mediante cámara web. Dirigido a principiantes y estudiantes sin experiencia en código. | Transcripción, alineación de letras y separación de audio. Dirigido a entusiastas de la IA, músicos y creadores de contenido. |
 | **Tipo de modelo que usa** | Utiliza **redes neuronales convolucionales (CNN)** de visión por computadora mediante aprendizaje por transferencia. | Utiliza un **modelo de lenguaje y reconocimiento de voz (ASR)** pre-entrenado de última generación por NVIDIA. |
-| **Facilidad de uso y datos** | Alta facilidad (interfaz 100% no-code gráfica). Requiere que el usuario grabe sus propias muestras para entrenar. | Alta facilidad en su versión web interactiva. No requiere datos de entrenamiento; el modelo ya viene pre-entrenado de fábrica. |
+| **Facilidad de uso y datos** | Alta facilidad (interfaz 100% no-code gráfica). Requiere que el usuario grabe sus propias muestras para entrenar. | Alta facilidad en su v[tm-my-image-model.zip](https://github.com/user-attachments/files/34455620/tm-my-image-model.zip)
+ersión web interactiva. No requiere datos de entrenamiento; el modelo ya viene pre-entrenado de fábrica. |
 | **Casos de uso potenciales** | Control de acceso básico, prototipos de aplicaciones de asistencia visual o juegos activados por gestos corporales. | Creación automática de subtítulos para videos, sistemas de karaoke automatizados o herramientas de transcripción de reuniones. |
 | **Limitaciones y sesgos** | Muy dependiente de que las fotos iniciales tengan buena iluminación y fondos limpios para no confundirse. | Puede presentar fallas o sesgos si el audio tiene demasiado ruido de fondo o si el acento del hablante es muy cerrado. |
 
